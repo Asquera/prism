@@ -20,9 +20,9 @@ package defined in the project.
 Since there were several issues open with no further action in the direction
 of providing a **master** branch:
 
-http://github.com/LeaVerou/prism/#342
-http://github.com/LeaVerou/prism/#276
-http://github.com/LeaVerou/prism/#180
+- http://github.com/LeaVerou/prism/#342
+- http://github.com/LeaVerou/prism/#276
+- http://github.com/LeaVerou/prism/#180
 
 This fork provides a master branch and bower with css for plugins.
 
